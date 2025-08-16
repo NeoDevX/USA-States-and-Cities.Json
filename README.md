@@ -8,24 +8,47 @@
 
 ---
 
-## 👋 About Me
+# ⚡ NeoDevX
+**Old-school coder energy meets Neo-modern development**  
 
-Hi! I’m **NeoDevX** — an old-school coder with a modern twist.  
-
-- 💻 Passionate about CMS, HTML, PHP, SQL, web apps, automation, clean code, and much more  
-- 🚀 Always exploring new tools and technologies  
-- 🌐 Creator of [The Classify Ads](https://www.TheClassifyAds.com) — a sleek, modern classifieds platform  
-- 🎯 Focused on building projects that actually solve problems  
-
-> “Old-school coding energy, modern solutions.”
+[![GitHub followers](https://img.shields.io/github/followers/NeoDevX?label=Follow&style=social)](https://github.com/NeoDevX)
+[![GitHub stars](https://img.shields.io/github/stars/NeoDevX?style=social)](https://github.com/NeoDevX)
 
 ---
 
-## 📫 Connect with me
-- My GitHub: [NeoDevX](https://github.com/NeoDevX)  
-- Project Website: [TheClassifyAds.com](https://www.TheClassifyAds.com)  
+## 👋 About Me
 
-echo "🔥 Energy surge detected… NeoDevX has entered TheClassifyAds. Let's go!"
+Hi! I’m **NeoDevX** — a coder with a futuristic edge and old-school values.  
+I create web apps, automation tools, and digital solutions with high-voltage precision.  
+
+- 💻 CMS | HTML | PHP | SQL | Web Apps | Automation  
+- ⚡ Always exploring new tools & pushing boundaries  
+- 🌐 Creator of [The Classify Ads](https://www.TheClassifyAds.com)  
+
+> “Coding with energy. Innovating with purpose.”
+
+---
+
+## ⚡ Skills & Tools
+- Languages: SMS, HTML, CSS, PHP, SQL, JavaScript, Python  
+- Tools & Frameworks: Git, GitHub, VS Code, Replit, Gatsby, Node.js, React, Next.js, Tailwind CSS, Figma, Docker, Postman, MySQL, Firebase  
+- Concepts: Web Apps, Automation, CMS, Clean Code, API Integration, Responsive Design
+
+---
+
+## 🛠️ Projects
+- **[The Classify Ads](https://www.TheClassifyAds.com)** — Modern classifieds platform  
+- More projects coming soon… 🚀  
+
+---
+
+## 📫 Connect
+- GitHub: [NeoDevX](https://github.com/NeoDevX)  
+
+
+```bash
+# Welcome to NeoDevX Terminal 🚀
+echo "High-energy coding. Modern solutions. Old-school precision."
 
 ---
 
