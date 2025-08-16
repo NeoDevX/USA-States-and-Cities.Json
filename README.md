@@ -29,9 +29,9 @@ print("⚡ Max energy achieved — xcyborgoders fueling TheClassifyAds, old-scho
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/NeoDevX?label=Follow&style=social)](https://github.com/xcyborgoders)
-[![GitHub stars](https://img.shields.io/github/stars/NeoDevX?style=social)](https://github.com/xcyborgoders)
-[![trophy](https://github-profile-trophy.vercel.app/?username=xcyborgoders&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub followers](https://img.shields.io/github/followers/NeoDevX?label=Follow&style=social)](https://github.com/NeoDevX)
+[![GitHub stars](https://img.shields.io/github/stars/NeoDevX?style=social)](https://github.com/NeoDevX)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NeoDevX&theme=onedark)](https://github.com/NeoDevX/github-profile-trophy)
 
 
 
