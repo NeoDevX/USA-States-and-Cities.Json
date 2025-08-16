@@ -7,7 +7,7 @@
 /* Last-updated-2025-14-8 
 
 
-# 🚀 xCyborgoders
+# 🚀 NeoDevX
 **by [xcyborgoders](https://github.com/xcyborgoders)**  
 
 [![GitHub followers](https://img.shields.io/github/followers/xcyborgoders?label=Follow&style=social)](https://github.com/xcyborgoders)
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Hi! I’m **xcyborgoders** — a coder with an old-school mindset and a modern twist.  
+Hi! I’m **NeoDevX** — a coder with an old-school mindset and a modern twist.  
 
 I love building projects that are simple, efficient, and useful for real people.  
 
