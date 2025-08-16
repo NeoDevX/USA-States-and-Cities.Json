@@ -21,11 +21,11 @@ Hi! I’m **NeoDevX** — an old-school coder with a modern twist.
 
 ---
 
-## 📫 Connect
-- GitHub: [xcyborgoders](https://github.com/NeoDevX)  
-- Website: [TheClassifyAds.com](https://www.TheClassifyAds.com)  
+## 📫 Connect with me
+- My GitHub: [NeoDevX](https://github.com/NeoDevX)  
+- Project Website: [TheClassifyAds.com](https://www.TheClassifyAds.com)  
 
-print("⚡ Max energy achieved — xcyborgoders fueling TheClassifyAds, old-school coder style!")
+echo "🔥 Energy surge detected… NeoDevX has entered TheClassifyAds. Let's go!"
 
 ---
 
