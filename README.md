@@ -41,18 +41,19 @@ I create web apps, automation tools, and digital solutions with high-voltage pre
 ---
 
 ## 📫 Connect
-- GitHub: [NeoDevX](https://github.com/NeoDevX)  
+- GitHub: [NeoDevX](https://github.com/NeoDevX)
+
+[![GitHub followers](https://img.shields.io/github/followers/NeoDevX?label=Follow&style=social)](https://github.com/NeoDevX)
+[![GitHub stars](https://img.shields.io/github/stars/NeoDevX?style=social)](https://github.com/NeoDevX)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NeoDevX&theme=onedark)](https://github.com/NeoDevX/github-profile-trophy) 
 
 
 ```bash
 # Welcome to NeoDevX Terminal 🚀
 echo "High-energy coding. Modern solutions. Old-school precision."
 
----
 
-[![GitHub followers](https://img.shields.io/github/followers/NeoDevX?label=Follow&style=social)](https://github.com/NeoDevX)
-[![GitHub stars](https://img.shields.io/github/stars/NeoDevX?style=social)](https://github.com/NeoDevX)
-[![trophy](https://github-profile-trophy.vercel.app/?username=NeoDevX&theme=onedark)](https://github.com/NeoDevX/github-profile-trophy)
+
 
 
 
