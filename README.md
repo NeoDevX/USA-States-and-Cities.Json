@@ -23,8 +23,6 @@ I create web apps, automation tools, and digital solutions with high-voltage pre
 
 - 💻 CMS | HTML | PHP | SQL | Web Apps | Automation  
 - ⚡ Always exploring new tools & pushing boundaries  
-- 🌐 Creator of [The Classify Ads](https://www.TheClassifyAds.com)  
-
 > “Coding with energy. Innovating with purpose.”
 
 ---
