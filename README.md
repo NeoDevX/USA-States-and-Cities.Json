@@ -8,10 +8,10 @@
 
 
 # 🚀 NeoDevX
-**by [xcyborgoders](https://github.com/xcyborgoders)**  
+**by [xcyborgoders](https://github.com/NeoDevX)**  
 
-[![GitHub followers](https://img.shields.io/github/followers/xcyborgoders?label=Follow&style=social)](https://github.com/xcyborgoders)
-[![GitHub stars](https://img.shields.io/github/stars/xcyborgoders?style=social)](https://github.com/xcyborgoders)
+[![GitHub followers](https://img.shields.io/github/followers/NeoDevX?label=Follow&style=social)](https://github.com/xcyborgoders)
+[![GitHub stars](https://img.shields.io/github/stars/NeoDevX?style=social)](https://github.com/xcyborgoders)
 
 ## 👋 About Me
 
@@ -44,7 +44,7 @@ Hi! I’m **xcyborgoders** — an old-school coder with a modern twist.
 ---
 
 ## 📫 Connect
-- GitHub: [xcyborgoders](https://github.com/xcyborgoders)  
+- GitHub: [xcyborgoders](https://github.com/NeoDevX)  
 - Website: [TheClassifyAds.com](https://www.TheClassifyAds.com)  
 
 print("⚡ Max energy achieved — xcyborgoders fueling TheClassifyAds, old-school coder style!")
