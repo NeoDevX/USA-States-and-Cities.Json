@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Hi! I’m **xcyborgoders** — an old-school coder with a modern twist.  
+Hi! I’m **NeoDevX** — an old-school coder with a modern twist.  
 
 - 💻 Passionate about CMS, HTML, PHP, SQL, web apps, automation, clean code, and much more  
 - 🚀 Always exploring new tools and technologies  
