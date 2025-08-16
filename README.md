@@ -7,9 +7,6 @@
 /* Last-updated-2025-14-8 
 
 
-# 🚀 NeoDevX
-**by [xcyborgoders](https://github.com/NeoDevX)**  
-
 [![GitHub followers](https://img.shields.io/github/followers/NeoDevX?label=Follow&style=social)](https://github.com/xcyborgoders)
 [![GitHub stars](https://img.shields.io/github/stars/NeoDevX?style=social)](https://github.com/xcyborgoders)
 
