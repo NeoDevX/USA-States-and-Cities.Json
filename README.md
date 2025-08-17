@@ -12,7 +12,7 @@
 **Old-school coder energy meets Neo-modern development**  
 
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/NeoDevX/standard-readme)
+[![standard-readme compliant]([https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square](https://github.com/NeoDevX/USA-States-and-Cities.Json/edit/main/README.md)](https://github.com/NeoDevX/README.md)
 
 [![GitHub followers](https://img.shields.io/github/followers/NeoDevX?label=Follow&style=social)](https://github.com/NeoDevX)
 [![GitHub stars](https://img.shields.io/github/stars/NeoDevX?style=social)](https://github.com/NeoDevX)
