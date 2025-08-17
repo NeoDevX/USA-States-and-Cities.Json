@@ -10,7 +10,7 @@
 
 # ⚡ NeoDevX
 **Old-school coder energy meets Neo-modern development**  
-
+https://github.com/NeoDevX/USA-States-and-Cities.Json/blob/main/LICENSE
 [![GitHub followers](https://img.shields.io/github/followers/NeoDevX?label=Follow&style=social)](https://github.com/NeoDevX)
 [![GitHub stars](https://img.shields.io/github/stars/NeoDevX?style=social)](https://github.com/NeoDevX)
 
