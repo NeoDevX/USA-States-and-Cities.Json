@@ -11,7 +11,6 @@
 # ⚡ NeoDevX
 **Old-school coder energy meets Neo-modern development**  
 
-{ "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "orange" }
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/NeoDevX/standard-readme)
 
