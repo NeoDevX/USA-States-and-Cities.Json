@@ -21,7 +21,7 @@
 ## 👋 About Me
 
 Hi! I’m **NeoDevX** — a coder with a futuristic edge and old-school values.  
-I create web apps, automation tools, and digital solutions with high-voltage precision.  
+I create web apps, automation tools, and digital solutions.
 
 - 💻 CMS | HTML | PHP | SQL | Web Apps | Automation  
 - ⚡ Always exploring new tools & pushing boundaries  
