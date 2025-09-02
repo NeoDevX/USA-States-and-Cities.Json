@@ -11,8 +11,6 @@
 # ⚡ NeoDevX
 **Old-school coder energy meets Neo-modern development**  
 
-
-
 [![GitHub followers](https://img.shields.io/github/followers/NeoDevX?label=Follow&style=social)](https://github.com/NeoDevX)
 [![GitHub stars](https://img.shields.io/github/stars/NeoDevX?style=social)](https://github.com/NeoDevX)
 
@@ -21,7 +19,7 @@
 ## 👋 About Me
 
 Hi! I’m **NeoDevX** — a coder with a futuristic edge and old-school values.  
-I create web apps, automation tools, and digital solutions.
+
 
 - 💻 CMS | HTML | PHP | SQL | Web Apps | Automation  
 - ⚡ Always exploring new tools & pushing boundaries  
